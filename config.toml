@@ -33,7 +33,7 @@ theme = "LoveIt"
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
     name = "Projects"
-    url = "/posts/"
+    url = "/projects/"
     # title will be shown when you hover on this menu link
     title = ""
     weight = 2
@@ -44,10 +44,10 @@ theme = "LoveIt"
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
     name = "Hire Me"
-    url = "/posts/"
+    url = "/hireme/"
     # title will be shown when you hover on this menu link
     title = ""
-    weight = 1
+    weight = 3
   [[menu.main]]
     identifier = "resume"
     # you can add extra information before the name (HTML format is supported), such as icons
@@ -58,7 +58,7 @@ theme = "LoveIt"
     url = "/resume/"
     # title will be shown when you hover on this menu link
     title = ""
-    weight = 1
+    weight = 4
   [[menu.main]]
     identifier = "about"
     # you can add extra information before the name (HTML format is supported), such as icons
@@ -66,10 +66,10 @@ theme = "LoveIt"
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
     name = "About Me"
-    url = "/posts/"
+    url = "/about/"
     # title will be shown when you hover on this menu link
     title = ""
-    weight = 1
+    weight = 5
 
 
  [params.home]
