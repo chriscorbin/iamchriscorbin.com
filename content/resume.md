@@ -48,7 +48,6 @@ Benicia High School | 2003-2007 - Graduated with diploma
  - HTML
  - CSS
  - JavaScript ES6
- - ReactJS
 
 **Databases**
 
@@ -56,12 +55,14 @@ Benicia High School | 2003-2007 - Graduated with diploma
  - MariaDB (MySQL)
  - PostgreSQL
  - Redis
+ - MongoDB
 
 **Frameworks and Libraries**
 
  - Django 
  - Flask
  - Pandas
+ - ReactJS
 
 # Professional References
 

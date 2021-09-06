@@ -35,7 +35,8 @@ If you are interested, please drop me an [email](mailto:christopheracorbin@outlo
 
 ## F.A.Q.s:
 
-- What is your hourly rate?
+- **What is your hourly rate?**
 -- Depends on what the job is, drop me an email and I would be happy to discuss scope/rates prior to starting work and I can work within most budgets.
 
-- Do you do mobile apps? -- Not right now, there are tons of mobile devs out there that are much more experienced with iOS or Android than I am.
+- **Do you do mobile apps?** 
+-- Not right now, there are tons of mobile devs out there that are much more experienced with iOS or Android than I am.
