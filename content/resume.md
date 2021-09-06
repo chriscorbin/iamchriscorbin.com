@@ -6,7 +6,7 @@ draft: false
 
 # **Work Experience:**
 
-## Systems Data Engineer | Covalent Health Solutions | 2019 - Current
+#### Systems Data Engineer | Covalent Health Solutions | 2019 - Current
 
  - Design and deployment of a modern data warehouse for use in BI solutions such as Tableau and PowerBI
  - Authoring of numerous data pipelines with a wide variety of source data formats into both MSSQL and Postgres databases
@@ -15,7 +15,7 @@ draft: false
  - Acting as primary technical subject matter expert in relations with software vendors and client requests
  - Creation and deployment of a RESTful API for a high volume production application
 
-## IT Project Manager | Covalent Health Solutions | 2015 - 2019
+#### IT Project Manager | Covalent Health Solutions | 2015 - 2019
 
  - Design, deployment and management of an enterprise level PBX system for ambulance call center and hospital transfer centers across several states.
  - Deployment of new cell phones to our entire fleet (300+ devices) with zero operational downtime
@@ -26,7 +26,7 @@ draft: false
  - Design, development and deployment of custom software solutions for payroll and billing
 
 
-## Communications Manager | ProTransport-1 Ambulance | 2014 - 2015
+#### Communications Manager | ProTransport-1 Ambulance | 2014 - 2015
 
  - Managed a 24/7 call center for both ambulance dispatch and critical patient transfers
  - Developed and implemented procedures related to Attendance, Job Performance
