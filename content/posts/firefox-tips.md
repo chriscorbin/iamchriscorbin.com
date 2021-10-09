@@ -5,6 +5,8 @@ author: 'chris'
 draft: false
 ---
 
+![best browser ever](/posts/Firefox_Logo.png)
+
 ## Here are a few tips/tricks/hacks to make a power user feel at home inside Mozilla's Firefox.
 
 I have been using Firefox as my daily driver browser for about 3 years now, when I decided to finally give Chrome the boot it was due to it munching all my machine's RAM, but if I had known how many little quality of life features Firefox had in store for me, I would have switched much sooner. After a few years of configuring, tweaking and experimenting with it, I have turned my Firefox install into a tool that fits in with my terminal-centric, hands-always-on-keyboard workflow. 
@@ -14,7 +16,7 @@ I have been using Firefox as my daily driver browser for about 3 years now, when
 
 ### 1. That's no address bar...
 
-  
+![your new best friend](/posts/Firefox_search_bar.png)
 
 ...its a space station! Star Wars quotes aside, Firefox's address bar is way more powerful than most people think. Think of it more like the command palate from VSCode or Sublime, it offers a wide variety of cool stuff with a few key presses. The most powerful trick I use here is context-aware search. Context-aware search is absolutely brilliant! You have a website in your bookmarks that you want to quickly navigate to without touching your mouse or scrolling through a million options on your search history? I do, like 300 times a day. What do the non-power users do? They pull up their bookmarks or click on the item in their bookmarks bar...does it work? Yeah, sure but its slow and it requires me to touch my mouse, which I consider affront to all geeks who have come before me. 
 
@@ -24,23 +26,25 @@ The following key combination will now be your new favorite thing on planet eart
  - \* - to indicate you want to search your bookmarks 
  - The first few characters of the site you want
 
-<screenshot>
-
 Want to search history? No problem substitute your * for a ^ and you are good to go!
 
 Keep in mind, this doesn't just search the URL, but the page's title, you want to find that youtube video you were watching about chicken but you don't remember exactly when you saw it or what channel it was on? ^chicken will get you what you want:
-
-<screenshot>
 
 Same works for your open tabs, just use % to search those too. 
 
 You can also use your address bar to search certain websites, for example if you want to search amazon for speakers, you don't need to load up amazon's landing page, just enter @amazon in your search bar followed by your search term. Same goes for duck duck go via the @ddg shortcut and wikipedia via @wikipedia (you can shorten this to @wiki in your Search Shortcuts Settings)
 
+![why they included bing, I will never understand](/posts/Firefox_search_shortcuts.png)
+
 Finally, if the built-in options dont have what you want, you can always install additional search providers via [Mozilla's add-on page](https://addons.mozilla.org/en-US/firefox/extensions/category/search-tools/) 
+
+
 
 ### 2. Stop scrolling with the scroll wheel!
 
 I have a mouse, its a good mouse, I like it a lot. That being said, I want to use it as little as possible. Removing my fingers from the home row takes time and I don't like doing it. Can you navigate a page in Firefox via the arrow keys? Yeah, but your arrow keys (depending on your keyboard) are not where your fingers naturally rest, your finger should be sitting at ASDF and JKL; respectively. Vim users will argue that your right hand should be at home on HJKL, which I don't really understand but sure, if hardcore Vim is your religion, be my guest (I remap these in Vim to JKL; myself, it makes way more sense and ***yes***, this is a hill I am willing to die on).  Allow me to present to you my first-installed Firefox add-on; [Vim Vixen](https://addons.mozilla.org/en-US/firefox/addon/vim-vixen/) 
+
+![not a magicians refrence](/posts/Firefox_vim_vixen.png)
 
 Vim Vixen is pretty simple, it adds a few Vim keybinds to your standard page navigation, good ole Vim favorites like gg to go to the top of a page and G to go to the bottom. which is neat but most importantly it lets use J and K to scroll up and down. You can also use Vim Vixen to do some crazy text-based navigation as shown on their add-on page, but that is a little beyond what I use it for. 
 
@@ -53,6 +57,8 @@ This one is short and sweet. Ctrl + Tab cycles through your active tabs, easy as
 
 Let's be really honest here, default Firefox is not pretty...I mean it isn't as bad as some browsers but it ain't no looker neither. Firefox is pretty customizable and offers you a few themes to start out with out-of-the-box. The prepackaged themes are also ugly as sin... So, what can we do to make our install of Firefox [UnixPorn](https://www.reddit.com/r/unixporn/) worthy? We go with one of the tried and true themes that you see on there all the time, here are a few of my favorites but there are a lot of good ones out there if you are willing to wade through the bad eggs:
 
+![does not actually drink your blood](/posts/Firefox_dracula_theme.png)
+
 [Dracula](https://addons.mozilla.org/en-US/firefox/addon/dracula-dark/) - This is my current daily driver, the Dracula theme is available for almost any piece of software that accepts theming, VSCode, Datagrip, Slack, GTK...you name it, it probably has a Dracula theme available for it, but if you aren't sure you can always check the [official website](https://draculatheme.com/).
 
 [Arc Dark](https://addons.mozilla.org/en-US/firefox/addon/arc-dark-theme-we/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - This one is clean and simple, blacks and grays.
@@ -63,6 +69,8 @@ And of course, if you can't find anything quite to your taste and you have some 
 
 
 ### 5. New Tabs to lower your blood pressure
+
+![purdy pictures](/posts/Firefox_tabliss.png)
 
 Now that you have the power of the address bar under your belt, you really don't need Firefox's default new tab screen to display your recently visited sites, right? So, lets reclaim some of that space you just freed up! Meet [Tabliss](https://addons.mozilla.org/en-US/firefox/addon/tabliss/), a less evil and in my opinion, vastly better version of the now paid?!?!?! new tab add-on, Momentum. Tabliss does one thing and does it well, it gives you a random pretty image when you fire off a new tab, that's it. You can also have it tell you the time, weather or have it give you a inspiring quote if that's your thing...I just like the pretty pictures. This add-on is better than Momentum for three reasons: 
 
