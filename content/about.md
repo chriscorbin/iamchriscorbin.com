@@ -12,7 +12,7 @@ Here are a few fun facts about me:
 =====
   <br/>
 
- - I work as a fulltime Data Engineer for an awesome company out of California. If you want to learn more, my [resume](/resume/) is available.
+ - I work as a fulltime Data Engineer. If you want to learn more, my [resume](/resume/) is available.
 
 - I have a number of cool [projects](/projects/)  that I work on (at least I think they're cool).
 
